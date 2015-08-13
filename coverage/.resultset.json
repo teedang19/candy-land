@@ -1,0 +1,47 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/tam/Desktop/candy_land/lib/candy_land.rb": [
+        1
+      ],
+      "/Users/tam/Desktop/candy_land/lib/candy_land/step.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1439426304
+  }
+}
